@@ -1,5 +1,5 @@
 ![](https://raw.githubusercontent.com/cappelchi/cappelchi/master/cv_interactive.gif)
-## Hello, welcome to my GitHub! <img src="https://raw.githubusercontent.com/zluvsand/zluvsand/master/wave.gif" width="25px">
+## Hello, welcome to my GitHub! <img src="https://raw.githubusercontent.com/cappelchi/cappelchi/main/eye_animated_sticker%20(1).gif" width="50px">
 
 <!--
 **cappelchi/cappelchi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
