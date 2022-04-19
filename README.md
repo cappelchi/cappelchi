@@ -8,6 +8,7 @@
 <p><img src="https://github-readme-streak-stats.herokuapp.com?user=cappelchi&theme=dracula"/></p>
 
 ### 📚 My media
+- [kosaretskiy.com](https://kosaretskiy.com)
 - [ML in SNP analysis](https://youtu.be/urTLCscw63w)
 - [ML in SNP analysis (part 2)](https://youtu.be/8pjzET-MaFw)
 <a href="https://www.linkedin.com/in/mikhail-kosaretskiy-97241b28/">
