@@ -12,3 +12,6 @@
 - [ML in SNP analysis (part 2)](https://youtu.be/8pjzET-MaFw)
 <a href="https://www.linkedin.com/in/mikhail-kosaretskiy-97241b28/">
     <img src="https://img.shields.io/badge/LINKEDIN-12100E?logo=linkedin&color=282A36&logoColor=white" />
+
+<p><img src="https://raw.githubusercontent.com/cappelchi/cappelchi/main/clap_animated_sticker.gif" width="50px">
+</a>
