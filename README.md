@@ -17,3 +17,10 @@
 
 <p><img src="https://raw.githubusercontent.com/cappelchi/cappelchi/main/one_for_me.gif" width="50px">
 </a>
+
+### 📚 Ideas
+Bioinformatics Track| Trading Ideas| ML in Sports betting      
+------- | ---------------- | ----------:
+[Bioinformatics for Infectious Dseases](https://github.com/cappelchi/Bioinformatics-for-Infectious-Diseases/blob/master/Pine_Bio_Infection_Dseases_presentation_part2.ipynb)  | [Entry with Market Maker](https://github.com/cappelchi/How-to-use-Python-in-Trading-for-entry-with-Market-Maker/blob/master/How_to_use_Python_in_Trading_for_entry_with_Market_Maker.ipynb) | [Line Estimation (part I)](https://www.kaggle.com/code/ilfiore/introduction)
+[Biopython for coronavirus](https://github.com/cappelchi/Coronavirus/blob/master/Biopython_coronavirus_notebook_tutorial.ipynb)  |         | [Line Estimation (part II)](https://www.kaggle.com/code/ilfiore/sports-betting-line-estimation)
+[Deep Learning on Ancient DNA on gpu](https://github.com/cappelchi/Ancient-DNA-with-GPU/blob/master/Deep_Learning_on_Ancient_DNA_on_gpu.ipynb)   |  |       
