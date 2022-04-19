@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/cappelchi/cappelchi/main/README.md)
+![](https://raw.githubusercontent.com/cappelchi/cappelchi/master/cv_interactive.gif)
 ### Hi there 👋
 
 <!--
