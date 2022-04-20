@@ -25,7 +25,7 @@ Bioinformatics Track| Trading Ideas| ML in Sports betting
 <a href="https://t.me/cappelchi">
     <img src="https://raw.githubusercontent.com/cappelchi/cappelchi/master/telegram_icon.png" width="50px"/></a>
 &nbsp;
-<a href="cappelchi@gmail.com">
+<a href="mailto:cappelchi@gmail.com">
     <img src="https://raw.githubusercontent.com/cappelchi/cappelchi/master/email_envelope_gmail_letter_logo_icon.png" width="50px"/></a>
 <a href="https://www.linkedin.com/in/mikhail-kosaretskiy-97241b28/">
 &nbsp;&nbsp;
