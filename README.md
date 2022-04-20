@@ -27,11 +27,11 @@ Bioinformatics Track| Trading Ideas| ML in Sports betting
 &nbsp;
 <a href="cappelchi@gmail.com">
     <img src="https://raw.githubusercontent.com/cappelchi/cappelchi/master/email_envelope_gmail_letter_logo_icon.png" width="50px"/></a>
-<br></br>
 <a href="https://www.linkedin.com/in/mikhail-kosaretskiy-97241b28/">
-    <img src="https://raw.githubusercontent.com/cappelchi/cappelchi/master/linkedin_icon.png" width="100px"/></a>
+&nbsp;&nbsp;
+    <img src="https://raw.githubusercontent.com/cappelchi/cappelchi/master/small_linkedin_icon.png" width="100px"/></a>
 <br></br>
-<p><img src="https://raw.githubusercontent.com/cappelchi/cappelchi/main/one_for_me.gif" width="50px">
+<p><img src="https://raw.githubusercontent.com/cappelchi/cappelchi/master/one_for_me.gif" width="50px">
 </a>
 
  
