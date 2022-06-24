@@ -31,7 +31,7 @@ Bioinformatics Track| Trading Ideas| ML in Sports betting
 &nbsp;&nbsp;
     <img src="https://raw.githubusercontent.com/cappelchi/cappelchi/master/small_linkedin_icon.png" width="100px"/></a>
 <br></br>
-<p><img src="https://raw.githubusercontent.com/cappelchi/cappelchi/master/one_for_me.gif" width="50px" height="50px">
+<p><img src="https://raw.githubusercontent.com/cappelchi/cappelchi/master/one_for_me2.gif" width="50px" height="50px">
 </a>
 
  
