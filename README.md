@@ -7,7 +7,7 @@
 ### 📈 GitHub stats
 <p><img src="https://github-readme-streak-stats.herokuapp.com?user=cappelchi&theme=dracula"/></p>
 
-### <img src="https://raw.githubusercontent.com/cappelchi/cappelchi/master/posts_icon.gif" width="30px"/> Posts
+### <img src="https://raw.githubusercontent.com/cappelchi/cappelchi/master/posts_icon.gif" width="30px" height="30px"/> Posts
 - [kosaretskiy.com](https://kosaretskiy.com)
 - [ML in SNP analysis](https://youtu.be/urTLCscw63w)
 - [ML in SNP analysis (part 2)](https://youtu.be/8pjzET-MaFw)
@@ -21,7 +21,7 @@ Bioinformatics Track| Trading Ideas| ML in Sports betting
 [Deep Learning on Ancient DNA on gpu](https://github.com/cappelchi/Ancient-DNA-with-GPU/blob/master/Deep_Learning_on_Ancient_DNA_on_gpu.ipynb)   |  |       
 
 
-### <img src="https://raw.githubusercontent.com/cappelchi/cappelchi/main/eye_animated_sticker%20(1).gif" width="30px"> Get in Touch</a>
+### <img src="https://raw.githubusercontent.com/cappelchi/cappelchi/main/eye_animated_sticker%20(1).gif" width="30px" height="30px"> Get in Touch</a>
 <a href="https://t.me/cappelchi">
     <img src="https://raw.githubusercontent.com/cappelchi/cappelchi/master/telegram_icon.png" width="50px"/></a>
 &nbsp;
@@ -31,7 +31,7 @@ Bioinformatics Track| Trading Ideas| ML in Sports betting
 &nbsp;&nbsp;
     <img src="https://raw.githubusercontent.com/cappelchi/cappelchi/master/small_linkedin_icon.png" width="100px"/></a>
 <br></br>
-<p><img src="https://raw.githubusercontent.com/cappelchi/cappelchi/master/one_for_me.gif" width="50px">
+<p><img src="https://raw.githubusercontent.com/cappelchi/cappelchi/master/one_for_me.gif" width="50px" height="50px">
 </a>
 
  
