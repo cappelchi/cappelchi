@@ -21,7 +21,7 @@ Bioinformatics Track| Trading Ideas| ML in Sports betting
 [Deep Learning on Ancient DNA on gpu](https://github.com/cappelchi/Ancient-DNA-with-GPU/blob/master/Deep_Learning_on_Ancient_DNA_on_gpu.ipynb)   |  |       
 
 
-### <img src="https://raw.githubusercontent.com/cappelchi/cappelchi/main/eye_animated_sticker%20(1).gif" width="30px" height="30px"> Get in Touch</a>
+### <img src="https://raw.githubusercontent.com/cappelchi/cappelchi/main/eye_animated.gif" width="30px" height="30px"> Get in Touch</a>
 <a href="https://t.me/cappelchi">
     <img src="https://raw.githubusercontent.com/cappelchi/cappelchi/master/telegram_icon.png" width="50px"/></a>
 &nbsp;
