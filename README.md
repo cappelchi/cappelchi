@@ -34,4 +34,3 @@ Bioinformatics Track| Trading Ideas| ML in Sports betting
 <p><img src="https://raw.githubusercontent.com/cappelchi/cappelchi/master/one_for_me2.gif" width="50px" height="50px">
 </a>
 
-<iframe src="https://www.w3schools.com" title="W3Schools Free Online Web Tutorials"></iframe>
